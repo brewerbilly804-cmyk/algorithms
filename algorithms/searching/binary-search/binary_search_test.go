@@ -1,4 +1,6 @@
-package bs
+Pull request → lint → test → build
+Merge to main → deploy to staging
+Manual approval → deploy to productionpackage bs
 
 import (
 	"fmt"
